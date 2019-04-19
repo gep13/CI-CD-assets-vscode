@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="http://gep13.github.io/CI-CD-assets-vscode" />
-	<id>http://gep13.github.io/CI-CD-assets-vscode</id>
-	<title>CI/CD Assets VS Code</title>
-	<rights>2018</rights>
-	<updated>2018-12-29T20:14:02Z</updated>
+	<id>http://gep13-oss.github.io/CI-CD-assets-vscode</id>
+	<title>CI-CD-assets-vscode</title>
+	<link rel="self" href="http://gep13-oss.github.io/CI-CD-assets-vscode" />
+	<rights>2019</rights>
+	<updated>2019-04-19T23:05:47Z</updated>
 </feed>
